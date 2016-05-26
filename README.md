@@ -1,3 +1,9 @@
+# IMPORTANT!!!
+
+Sometime around 2007 I transferred module maintenance and ownership to Fred Moyer.  So, while this repo represents my work it does not represent the current state of the project and should never be forked.  The current home of Apache::Dispatch is 
+
+http://search.cpan.org/~phred/Apache-Dispatch/
+
 # NAME
 
 Apache::Dispatch - call PerlHandlers with the ease of Registry scripts
